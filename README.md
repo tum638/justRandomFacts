@@ -1,6 +1,6 @@
 # Web Development Project 2 - *justRandomFacts*
 
-Submitted by: **Tanatswa**
+Submitted by: **Tanatswa Manyakara**
 
 This web app: **An app for playing trivia**
 
