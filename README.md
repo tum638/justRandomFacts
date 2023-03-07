@@ -30,12 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/EOQeitv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hdrBnLe" data-context="false" ><a href="//imgur.com/a/hdrBnLe"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<video width="640" height="360" controls>
-  <source src="https://i.imgur.com/EOQeitv.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src='https://imgur.com/EOQeitv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
