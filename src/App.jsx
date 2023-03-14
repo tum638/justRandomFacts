@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Card from './components/Card'
+import Form from './components/Form'
 import factsHistory from '../Cards'
 
 function App() {
@@ -88,7 +89,9 @@ function App() {
       <p>Wanna learn something completely random and new? Youve come to the right place</p>
       <p>Number of cards: <strong>Infinite, use of API to get cards.</strong></p>
       <p>Facts stored in history: 2</p>
+      
       <Card onUpdateFact={updateFact} fact={fact} flipCardInner={flipCard} />
+      <Form expectedAnswer={fact[0].factAnswer}/>
       <div className="buttons">
                 <div className="back-button">
           <span
@@ -105,7 +108,8 @@ function App() {
                         ⏩
                     </span>
                     </div>
-            </div>
+      </div>
+      
     </div>
   )
 }

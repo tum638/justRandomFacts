@@ -19,6 +19,30 @@
   margin-right: auto;
   perspective: 1000px; 
 }
+.form-label {
+  margin: 1em;
+}
+.form-input {
+  margin-left:1rem;
+  margin-right:0.2rem;
+  height: 2em;
+  width: 10em;
+  border-radius: 0.5em;
+  padding:0.2rem;
+}
+.correct {
+  background-color: rgb(35, 175, 35);
+  color:white;
+}
+.incorrect {
+  background-color:rgb(209, 109, 109);
+  color: white;
+}
+.form-button {
+   height: 2rem;
+  width: 10em;
+  border-radius: 0.5rem;
+}
 .flip-card-inner {
   position: relative;
   width: 100%;
@@ -82,4 +106,8 @@
 }
 .ViewAnswer:hover {
   background-color: rgb(199, 225, 160);
+}
+.form {
+  margin-top: 1rem;
+
 }
